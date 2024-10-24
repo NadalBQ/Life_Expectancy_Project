@@ -4,7 +4,7 @@ A web app to calculate your life expectancy based on socioeconomic factors affec
 
 App currently running on [Render](https://render.com).
 
-The app in this repo is deployed at the following [link](https://flask-hello-world-eeib.onrender.com).
+The app in this repo is deployed at the following [link](https://life-expectancy-project.onrender.com/home).
 
 Feel free to extend our research further as time goes! If you are interested in the project we recommend you take a look at the jupyter notebooks and take advantage of our work for anything it may help you with.
 
